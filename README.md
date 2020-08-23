@@ -1,2 +1,2 @@
-# Bullet-damage-sim
-Tests wall strength
+# p5.play-boilerplate
+Boiler plate for p5.play
